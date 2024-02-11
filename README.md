@@ -10,3 +10,6 @@ Analysis of games
 [PJ] (https://github.com/jindalpri/game_analysis/edit/main/README.md)
 !(Images)
 
+
+we can drag and drop the image and github will render code
+
